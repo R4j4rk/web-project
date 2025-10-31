@@ -1,4 +1,4 @@
-num = int(input("Enter a number: "))
+num = int(input("Enter the number: "))
 n = num
 power = len(str(num))
 total = 0
